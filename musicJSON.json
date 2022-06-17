@@ -1,0 +1,53 @@
+{
+    "Songs":[
+        {
+            "id": 1,
+            "name": "Seeing Green",
+            "artist": "Nicki Minaj, Drake, Lil Wayne",
+            "url": "https://drive.google.com/file/d/19_D53_zQ9pDQulzD40Iw23x_rEuyVLKL/view?usp=sharing",
+            "cover": ""
+        },
+        {
+            "id": 2,
+            "name": "no tears left to cry",
+            "artist": "Ariana Grande",
+            "url": "https://drive.google.com/file/d/122lHaGcfp1b7mkW-NvzPuPJ7htBHEPkG/view?usp=sharing",
+            "cover": ""
+        },
+        {
+            "id": 3,
+            "name": "Something About Us",
+            "artist": "Daft Punk",
+            "url": "https://drive.google.com/file/d/1gRzKx5Yazd25g9VXY83rtyoVyTuLAv2Q/view?usp=sharing",
+            "cover": ""
+        },
+        {
+            "id": 4,
+            "name": "Sweet But Psycho Male",
+            "artist": "Ava Max",
+            "url": "https://drive.google.com/file/d/1-goP9wuPPYcBpDpxL-l7MzB6jUWN0LIv/view?usp=sharing",
+            "cover": ""
+        },
+        {
+            "id": 5,
+            "name": "Kiss Me More",
+            "artist": "Doja Cat ft. SZA",
+            "url": "https://drive.google.com/file/d/1duD0x962dsIjtWItzW41b8fQKStJo4CT/view?usp=sharing",
+            "cover": ""
+        },
+        {
+            "id": 6,
+            "name": "That Girl",
+            "artist": "Olly Murs",
+            "url": "https://drive.google.com/file/d/1P9OqixQwJBSqSAS2k0CmIg0N9PDEZLRm/view?usp=sharing",
+            "cover": ""
+        },
+        {
+            "id": 7,
+            "name": "Va Va Voom",
+            "artist": "Olly Murs",
+            "url": "https://drive.google.com/file/d/1P9OqixQwJBSqSAS2k0CmIg0N9PDEZLRm/view?usp=sharing",
+            "cover": ""
+        }
+    ]
+}
